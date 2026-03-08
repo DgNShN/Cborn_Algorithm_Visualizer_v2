@@ -47,8 +47,9 @@ Examples may include:
 1. Make sure Python 3.10+ is installed.
 2. Clone the repository.
 3. Run the application:
-python main.py
+
 ```bash
+python main.py
 
 ### Project Structure altı
 ```md
