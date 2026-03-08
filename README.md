@@ -51,10 +51,9 @@ Examples may include:
 ```bash
 python main.py
 ```
-
 ## Project Structure
+` ``bash
 Cborn_Algorithm_Visualizer_v2/
-│
 ├── main.py
 ├── visualizer.py
 ├── algorithms.py
@@ -63,3 +62,4 @@ Cborn_Algorithm_Visualizer_v2/
 ├── utils.py
 ├── test_mode.py
 └── ...
+```
