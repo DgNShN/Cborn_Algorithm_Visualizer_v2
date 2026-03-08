@@ -42,6 +42,14 @@ Examples may include:
 ## Screenshot
 
 ![Cborn Algorithm Visualizer Screenshot](./screenshot.png)
+## How to Run
+
+1. Make sure Python 3.10+ is installed.
+2. Clone the repository.
+3. Run the application:
+
+```bash
+python main.py
 
 ## Project Structure
 
