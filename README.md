@@ -49,10 +49,10 @@ Examples may include:
 3. Run the application:
 
 ```bash
-python main.py
-```
-## Project Structure
-` ``bash
+
+### Project Structure altı
+```md
+```bash
 Cborn_Algorithm_Visualizer_v2/
 ├── main.py
 ├── visualizer.py
@@ -62,4 +62,5 @@ Cborn_Algorithm_Visualizer_v2/
 ├── utils.py
 ├── test_mode.py
 └── ...
+python main.py
 ```
