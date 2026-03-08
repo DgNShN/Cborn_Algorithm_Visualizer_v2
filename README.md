@@ -39,7 +39,9 @@ Examples may include:
 
 > The exact list depends on the algorithms defined inside the project files.
 
----
+## Screenshot
+
+![Cborn Algorithm Visualizer Screenshot](./screenshot.png)
 
 ## Project Structure
 
